@@ -1,0 +1,28 @@
+name: City Green OC
+favicon: null
+layout_spectrum: 0.7384903880301863
+typography_spectrum: 0.917223131749779
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6990389304701239
+  lightness: 0.8650093111209571
+  saturation: 0.2413523697759956
+  rhythmicContrast: 0.7472276876214892
+purpose: []
